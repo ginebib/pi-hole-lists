@@ -1,2 +1,27 @@
-(\.|^)bild\.de$
+# Medien
 facebook.com
+graph.facebook.com
+bild.de
+
+# Online-Games
+poki.de
+poki.at
+devs-api.poki.com
+poki-gdn.com
+kahoot.io
+spielaffe.de
+spiele.spiegel.de
+jetztspielen.de
+crazygames.com
+spiele123.com
+browsergames.de
+skribbl.io
+epicgames.com
+twitch.tv
+steamcommunity.com
+gamesgames.com
+miniclip.com
+silvergames.com
+agar.io
+slither.io
+digdig.io
