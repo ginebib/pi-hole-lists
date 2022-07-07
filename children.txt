@@ -8,7 +8,6 @@ poki.de
 poki.at
 devs-api.poki.com
 poki-gdn.com
-kahoot.io
 spielaffe.de
 spiele.spiegel.de
 jetztspielen.de
@@ -25,3 +24,4 @@ silvergames.com
 agar.io
 slither.io
 digdig.io
+1001spiele.de
