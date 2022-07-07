@@ -7,6 +7,8 @@ bild.de
 poki.de
 poki.at
 devs-api.poki.com
+leveldata.poki.io
+a.poki.com
 poki-gdn.com
 spielaffe.de
 spiele.spiegel.de
